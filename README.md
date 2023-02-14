@@ -1,4 +1,5 @@
-# Jegadeesh-1990
+# "Evidence of Predicatibility of Security Returns" (Jegadeesh, 1990)
+https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1990.tb05110.x
 
 The code attached attempts to replicate and update the results of Jegadeesh (1990) using CRSP monthly data from 1982-2022, obtained from the Wharton Data Research Services CRSP library. The code replicates the observed negative first-order serial correlation in monthly stock returns, along with significant positive serial correlation at longer lags, with the twelve-month serial correlation being particularly strong. The code also generates one-step-ahead return forecasts using the observed systematic behavior of stock returns and forms ten portfolios from these forecasts, similar to Jegadeesh's approach.
 
